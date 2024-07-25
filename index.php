@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>IMS</title>
+	<title>UNIVERSAL HUB IMS</title>
 <link rel="stylesheet" href="css/bootstrap.min.css">
  <link rel="stylesheet" href="fonts/Oswald/Oswald.ttf">
  <link rel="stylesheet" href="fonts/Pacifico/Pacifico-Regular.ttf">
@@ -76,7 +76,7 @@
   <!-- <div class="column"> -->
     <center>
       <a href="Ceramic/ceramiclogin.php">
-        <img src="assets/images/ceramic.svg" alt="Ceramic Hub" id="ceramic">
+        <img src="assets/images/imslogo.JPEG" alt="Ceramic Hub" id="ceramic">
       </a>
     </center>
   <!-- </div> -->
