@@ -1,4 +1,7 @@
+
 # Inventory Management SystemEOQ
+<img width="898" alt="landing page" src="https://github.com/user-attachments/assets/7174c8f4-8889-495f-a643-8387e5591010">
+
 Description
 The inventory management project aims to provide users with a web application to manage their stock, 
 sales, purchases, and manage their suppliers. At the same time, a positive balance in sales 
