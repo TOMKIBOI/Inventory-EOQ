@@ -18,7 +18,15 @@ Clone the repo
 git clone https://github.com/TOMKIBOI/Inventory-EOQ.git
 To access this Web Application you have to open XAMPP start Apache and MySQL and then type localhost/IMSFinal in your browser.
 
-The password and username is Ceramichub
+1) Admin
+	Username: admin
+	Password: admin
+2) User
+	Username: user
+	Password: user
+
+Database: alxproject
+
 
 
 Usage
