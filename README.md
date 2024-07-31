@@ -1,10 +1,11 @@
 
 # Inventory Management SystemEOQ
-<img width="898" alt="landing page" src="https://github.com/user-attachments/assets/7174c8f4-8889-495f-a643-8387e5591010">
+
+<img width="899" alt="zakayo" src="https://github.com/user-attachments/assets/4d488425-7765-45b9-b664-348cd5272ac0">
 
 Description
 The inventory management project aims to provide users with a web application to manage their stock, 
-sales, purchases, and manage their suppliers. At the same time, a positive balance in sales 
+sales, purchases, and manage their supplies. At the same time, a positive balance in sales 
 and profits was attained. It was created for small and medium-sized businesses seeking a simple and 
 intuitive solution for managing their inventories.
 
@@ -16,16 +17,9 @@ Requirement- XAMPP and your favorite browser.
 Clone the repo
 
 git clone https://github.com/TOMKIBOI/Inventory-EOQ.git
-To access this Web Application you have to open XAMPP start Apache and MySQL and then type localhost/IMSFinal in your browser.
-
-1) Admin
-	Username: admin
-	Password: admin
-2) User
-	Username: user
-	Password: user
-
-Database: alxproject
+To access this Web Application, open XAMPP, start Apache and MySQL and then type localhost/Inventory-EOQ in your browser.
+Create the database named alxproject, and import the stored SQL file in sql Directory. Once imported,  use the provided
+credential to log in. Later you can update the users or create new users and admin entirely.
 
 
 
@@ -38,20 +32,16 @@ adding, deleting new stock
 Login
 
 The Login Username and Password are Provided as
-Username: ceramichub
-password: ceramichub
+1) Admin
+	Username: admin
+	Password: admin
+2) User
+	Username: user
+	Password: user
+
+Database: alxproject
 
 Admins can manually update and delete inventories from the database.
-
-Fork the project
-Create your feature branch
-git checkout -b your_feature
-Commit your changes
-git commit -m 'Add AmazingFeature'
-Push to the branch
-git push origin your_feature
-Open a Pull Request
-Related projects
 
 Distributed under the MIT License. See LICENSE for more information.
 
